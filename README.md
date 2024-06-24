@@ -36,4 +36,15 @@ This section has moved here:
 
 echo "# APO-gerador-curriculo" >> README.md
 
+### Como funciona esta aplicação
+
+É só ir inserindo os dados nos campos em destaque como 
+nome , data de nascimento , cargo pretendido , anexar foto , endereço , telefone , email , resumo , tecnologias , e dinamicamente inserido os dados formação e experiência.
+
+Depois escolher o modelo de curriculo a escolha envolve um button radio que só deixar escolher uma opção que pode ser o modelo preto , modelo azul e o modelo basico sem a foto.
+
+Apos escolher o modelo de curriculo clicar em Gerar curriculo que vai abrir outra tela e vai dar a opção de imprimir ou antes tem a opção de Limpar campos clicando nessa botão vai apagar todos os campos e será necessario preenche-los novamente.
+
+
+
 
